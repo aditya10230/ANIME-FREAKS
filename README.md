@@ -20,7 +20,7 @@ OMFO Gimme a star and follow me
     
 # Deployment
     
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aditya10230/ANIME-FREAKS"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aditya10230/ANIME-FREAKS"> 
 
 ## Join Here 
 [![NARUTO](https://te.legra.ph/file/a3ecf881941168b8802ff.jpg)](https://t.me/ANIMEFRE4KS)
